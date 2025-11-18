@@ -25,11 +25,10 @@ author:
   # Biographic information
   avatar           : "GuohaoHuo.png"
   name             : "Harcourt"
-  pronouns         : he # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"  
+  bio              : "AI4Health"
   location         : "Chengdu"
-  employer         : "University of Electronic Science
-                      and Technology of China (UESTC)"
+  employer         : "UESTC"
   uri              : https://www.uestc.edu.cn/
   email            : "gh.huo513@gmail.com" 
 
