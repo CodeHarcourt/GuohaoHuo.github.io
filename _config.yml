@@ -28,7 +28,8 @@ author:
   pronouns         : he # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chengdu"
-  employer         : "University of Electronic Science<br>and Technology of China (UESTC)"
+  employer         : "University of Electronic Science
+                      and Technology of China (UESTC)"
   uri              : https://www.uestc.edu.cn/
   email            : "gh.huo513@gmail.com" 
 
