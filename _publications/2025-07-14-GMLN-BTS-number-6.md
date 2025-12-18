@@ -1,0 +1,12 @@
+---
+title: "Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)"
+author: "Guohao Huo, Ruiting Dai, and Hao Tang"
+collection: publications
+category: manuscripts
+permalink: https://arxiv.org/abs/2507.09995
+excerpt: 'This paper proposes G-SAP, a structure-aware prompt learning model that enhances cross-modal interaction between language models and knowledge graphs by constructing a multi-source evidence graph and using graph-driven prompts within a frozen PLM, achieving state-of-the-art performance in commonsense question answering.'
+date: 2025-07-14
+venue: 'Arxiv'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
