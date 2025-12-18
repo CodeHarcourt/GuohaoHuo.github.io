@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Guohao Huo",
+    "email": "gh.huo513@gmail.com",
+    "phone": "(+86)17882006216",
+    "website": "https://github.com/CodeHarcourt",
+    "summary": "I am a senior undergraduate student at the School of Software Engineering, University of Electronic Science and Technology of China (UESTC). My research interests lie at the intersection of medical image processing, multimodal healthcare AI, multi-agent systems for medical applications, and intelligent assistive diagnosis and rehabilitation robotics. I am deeply enthusiastic about interdisciplinary collaboration and warmly welcome researchers, advisors, or teams who share similar interests to reach out—I am eager to explore promising opportunities together in the frontier of AI for healthcare.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Chengdu",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Guohao Huo",
+        "url": "https://scholar.google.com/citations?user=DQqzVtUAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0009-0009-8816-7123",
+        "url": "https://orcid.org/0009-0009-8816-7123"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "CodeHarcourt",
+        "url": "https://github.com/CodeHarcourt"
       }
     ]
   },
