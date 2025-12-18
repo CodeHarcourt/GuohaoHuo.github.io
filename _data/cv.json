@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
+    "phone": "",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Earth",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/yourorcidurl"
+      },
+      {
+        "network": "GitHub",
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "University of Electronic Science and Technology of China",
+      "area": "B.S. in Engineering in Software Engineering",
+      "studyType": "",
+      "startDate": "2022.09",
+      "endDate": "2026.06",
+      "gpa": 3.91
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-07-14",
+      "website": "https://arxiv.org/pdf/2507.09995",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    },
+    {
+      "name": "SAMba-UNet: SAM2-Mamba UNet for Cardiac MRI in Medical Robotic Perception",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-05-22",
+      "website": "https://arxiv.org/pdf/2505.16304",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    },
+    {
+      "name": "DMS-Net:Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-04-25",
+      "website": "https://arxiv.org/pdf/2504.18046",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
+    },
+    {
+      "name": "Frequency Domain Enhanced U-Net for Low-Frequency Information-Rich Image Segmentation in Surgical and Deep-Sea Exploration Robots",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-02-06",
+      "website": "https://arxiv.org/pdf/2502.03829",
+      "summary": "This paper is about fixing template issue #693."
+    },
+    {
+      "name": "An Attention-Based Heterogeneous Graph Convolutional Network for Social Account Classification",
+      "publisher": "ICSIM 2025",
+      "releaseDate": "2025-01-10",
+      "website": "https://dl.acm.org/doi/full/10.1145/3725899.3725928",
+      "summary": "This paper is about fixing template issue #693."
+    },
+    {
+      "name": "G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning",
+      "publisher": "ACM ICMR 2024",
+      "releaseDate": "2024-02-17",
+      "website": "https://dl.acm.org/doi/abs/10.1145/3652583.3658040",
+      "summary": "This paper is about fixing template issue #693."
+    }
+  ],
+  "presentations": [
+    {
+      "name": " The 8th International Conference on Big Data and Smart Computing (ICBDSC 2025) ",
+      "event": " Oral presentation",
+      "date": "2025-01-10",
+      "location": "Singapore(Remote)",
+      "description": ""
+    }
+  ]
+}
