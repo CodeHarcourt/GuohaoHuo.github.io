@@ -43,10 +43,26 @@ I am passionate about leveraging artificial intelligence to solve complex proble
 # Recent Publications
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=DQqzVtUAAAAJ).
 
-*   **Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS)**
-    *   *Guohao Huo, Ruiting Dai, and Hao Tang*
-    *   Published in *Arxiv*, 2025
+*   **Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)**
+    *   **Guohao Huo**, Ruiting Dai, and Hao Tang
+    *   *Arxiv, 2025*
+
+*   **SAMba-UNet: SAM2-Mamba UNet for Cardiac MRI in Medical Robotic Perception**
+    *   **Guohao Huo**, Ruiting Dai, Ling Shao, and Hao Tang
+    *   *Arxiv, 2025*
+
+*   **DMS-Net: Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification**
+    *   **Guohao Huo**, Zibo Lin, Zitong Wang, Ruiting Dai, and Hao Tang
+    *   *Arxiv, 2025*
+
+*   **Frequency Domain Enhanced U-Net for Low-Frequency Information-Rich Image Segmentation in Surgical and Deep-Sea Exploration Robots**
+    *   **Guohao Huo**, Ruiting Dai, Jinliang Liu, Ling Shao, and Hao Tang
+    *   *Arxiv, 2025*
 
 *   **An Attention-Based Heterogeneous Graph Convolutional Network for Social Account Classification**
-    *   *Guohao Huo, et al.*
-    *   Presented at *ICBDSC 2025*
+    *   Ruiting Dai, **Guohao Huo**, Lisi Mo, and Ke Qin
+    *   *ACM ICSIM, 2025*
+
+*   **G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**
+    *   Ruiting Dai, Yuqiao Tan, Lisi Mo, Shuang Liang, **Guohao Huo**, Jiayi Luo, and Yao Cheng
+    *   *ACM ICMR, 2024*
