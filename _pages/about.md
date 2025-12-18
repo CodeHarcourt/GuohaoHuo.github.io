@@ -19,7 +19,7 @@ I am passionate about leveraging artificial intelligence to solve complex proble
 
 # News
 
-<div style="height: 300px; overflow-y: auto; border: 1px solid #e0e0e0; padding: 15px; border-radius: 5px;">
+<div style="height: 300px; overflow-y: auto; border: 1px solid var(--global-border-color); padding: 15px; border-radius: 5px; background-color: var(--global-bg-color); color: var(--global-text-color);">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li style="margin-bottom: 12px;"><strong>[11/2025]</strong> 🏆 <strong>Award:</strong> University-Level Outstanding Graduate, 2022 Cohort (UESTC)</li>
     <li style="margin-bottom: 12px;"><strong>[11/2025]</strong> 🏆 <strong>Award:</strong> Special Scholarship (UESTC)</li>
