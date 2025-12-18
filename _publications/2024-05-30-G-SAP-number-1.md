@@ -4,7 +4,7 @@ author: "Ruiting Dai, Yuqiao Tan, Lisi Mo, Shuang Liang, ***Guohao Huo***, Jiayi
 collection: publications
 category: conferences
 permalink: https://doi.org/10.1145/3652583.3658040
-excerpt: 'This paper proposes G-SAP, a structure-aware prompt learning model that enhances cross-modal interaction between language models and knowledge graphs by constructing a multi-source evidence graph and using graph-driven prompts within a frozen PLM, achieving state-of-the-art performance in commonsense question answering.'
+excerpt: 'We proposes G-SAP, a structure-aware prompt learning model that enhances cross-modal interaction between language models and knowledge graphs by constructing a multi-source evidence graph and using graph-driven prompts within a frozen PLM, achieving state-of-the-art performance in commonsense question answering.'
 date: 2024-05-30
 venue: 'ACM ICMR'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

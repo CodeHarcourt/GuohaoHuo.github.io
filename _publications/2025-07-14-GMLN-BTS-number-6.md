@@ -4,7 +4,7 @@ author: "Guohao Huo, Ruiting Dai, and Hao Tang"
 collection: publications
 category: manuscripts
 permalink: https://arxiv.org/abs/2507.09995
-excerpt: 'This paper proposes G-SAP, a structure-aware prompt learning model that enhances cross-modal interaction between language models and knowledge graphs by constructing a multi-source evidence graph and using graph-driven prompts within a frozen PLM, achieving state-of-the-art performance in commonsense question answering.'
+excerpt: 'We proposes EdgeIMLocSys, featuring the lightweight GMLN-BTS network with a Modality-Aware Adaptive Encoder, a Graph-based Multi-Modal Interaction Module, and a Voxel Refinement UpSampling Module, achieving high-accuracy, parameter-efficient brain tumor segmentation (85.1% Dice on BraTS2017 with only 4.58M parameters) and enabling continuous adaptation via clinician feedback for robustness across MRI scanners.'
 date: 2025-07-14
 venue: 'Arxiv'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
