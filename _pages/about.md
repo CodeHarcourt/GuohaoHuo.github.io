@@ -18,7 +18,8 @@ I am passionate about leveraging artificial intelligence to solve complex proble
 *   **Diagnostic/Rehabilitation Robotics**: Exploring the use of robotics in diagnostic and rehabilitation tasks to improve patient outcomes.
 
 # News
-<div style="height: 300px; overflow-y: auto; border: 1px solid #e0e0e0; padding: 15px; border-radius: 5px; background-color: #fcfcfc;">
+
+<div style="height: 300px; overflow-y: auto; border: 1px solid #e0e0e0; padding: 15px; border-radius: 5px;">
   <ul style="list-style-type: none; padding-left: 0; margin-top: 0;">
     <li style="margin-bottom: 12px;"><strong>[11/2025]</strong> 🏆 <strong>Award:</strong> University-Level Outstanding Graduate, 2022 Cohort (UESTC)</li>
     <li style="margin-bottom: 12px;"><strong>[11/2025]</strong> 🏆 <strong>Award:</strong> Special Scholarship (UESTC)</li>
@@ -43,26 +44,27 @@ I am passionate about leveraging artificial intelligence to solve complex proble
 # Recent Publications
 You can find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=DQqzVtUAAAAJ).
 
-*   **Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)**
-    *   **Guohao Huo**, Ruiting Dai, and Hao Tang
-    *   *Arxiv, 2025*
+*   **Graph-based Multi-Modal Interaction Lightweight Network for Brain Tumor Segmentation (GMLN-BTS) in Edge Iterative MRI Lesion Localization System (EdgeIMLocSys)**<br>
+    **Guohao Huo**, Ruiting Dai, and Hao Tang<br>
+    *Arxiv, 2025*
 
-*   **SAMba-UNet: SAM2-Mamba UNet for Cardiac MRI in Medical Robotic Perception**
-    *   **Guohao Huo**, Ruiting Dai, Ling Shao, and Hao Tang
-    *   *Arxiv, 2025*
+*   **SAMba-UNet: SAM2-Mamba UNet for Cardiac MRI in Medical Robotic Perception**<br>
+    **Guohao Huo**, Ruiting Dai, Ling Shao, and Hao Tang<br>
+    *Arxiv, 2025*
 
-*   **DMS-Net: Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification**
-    *   **Guohao Huo**, Zibo Lin, Zitong Wang, Ruiting Dai, and Hao Tang
-    *   *Arxiv, 2025*
+*   **DMS-Net: Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification**<br>
+    **Guohao Huo**, Zibo Lin, Zitong Wang, Ruiting Dai, and Hao Tang<br>
+    *Arxiv, 2025*
 
-*   **Frequency Domain Enhanced U-Net for Low-Frequency Information-Rich Image Segmentation in Surgical and Deep-Sea Exploration Robots**
-    *   **Guohao Huo**, Ruiting Dai, Jinliang Liu, Ling Shao, and Hao Tang
-    *   *Arxiv, 2025*
+*   **Frequency Domain Enhanced U-Net for Low-Frequency Information-Rich Image Segmentation in Surgical and Deep-Sea Exploration Robots**<br>
+    **Guohao Huo**, Ruiting Dai, Jinliang Liu, Ling Shao, and Hao Tang<br>
+    *Arxiv, 2025*
 
-*   **An Attention-Based Heterogeneous Graph Convolutional Network for Social Account Classification**
-    *   Ruiting Dai, **Guohao Huo**, Lisi Mo, and Ke Qin
-    *   *ACM ICSIM, 2025*
+*   **An Attention-Based Heterogeneous Graph Convolutional Network for Social Account Classification**<br>
+    Ruiting Dai, **Guohao Huo**, Lisi Mo, and Ke Qin<br>
+    *ACM ICSIM, 2025*
 
-*   **G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**
-    *   Ruiting Dai, Yuqiao Tan, Lisi Mo, Shuang Liang, **Guohao Huo**, Jiayi Luo, and Yao Cheng
-    *   *ACM ICMR, 2024*
+*   **G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**<br>
+    Ruiting Dai, Yuqiao Tan, Lisi Mo, Shuang Liang, **Guohao Huo**, Jiayi Luo, and Yao Cheng<br>
+    *ACM ICMR, 2024*
+
