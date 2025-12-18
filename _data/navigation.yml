@@ -11,11 +11,11 @@ main:
   - title: "CV"
     url: /cv-json/
 
-  - title: "Awards"
-    url: /awards/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Talks"
     url: /talks/    
